@@ -1,0 +1,18 @@
+#EXTINF:-1 group-title=".Shopee: broadcast_hub" group-logo="https://i.ibb.co/gLnGf4BB/image.png" tvg-id="Broadcast Hub" ch-number="100" tvg-name="Broadcast Hub" tvg-logo="https://i.ibb.co/qbxWw4J/bh.jpg", Shopee: broadcast_hub
+https://drive.usercontent.google.com/u/0/uc?id=19cOopqXqPMpCqsqMYgAB4ixgX5ylxGGH&export=download
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg" tvg-name="" group-logo="https://i.ibb.co/qbxWw4J/bh.jpg" group-title="Malaysia",
+
+  
+  
+#EXTINF:-1 tvg-id="TV1" ch-number="101" tvg-name="TV1 HD" group-title="Malaysia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", 101 TV1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/711
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 1da23-12312-312534-2334-2645-2342-6-23-236-34223-1-2-343-43567-4-123-342)  AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+
+

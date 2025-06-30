@@ -70,6 +70,11 @@ Sila isi URL dalam ott ikut step. bukan click link ini
 #######中国频道########
 
 #EXTM3U
+#EXTINF:-1 group-title="CCTV频道" tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://iptv-org.github.io/logos/cn/cctv1.png" group-title="中国频道", CCTV-1 综合
+http://tvbox6.icu/tv/migu.php?id=cctv1
+
+
+#EXTM3U
 # EPG URL: https://iptv-org.github.io/epg/guides/cn.xml
 
 #EXTINF:-1 group-title="中国频道" tvg-id="HunanMetropolitan" tvg-name="湖南都市" ch-number="301" tvg-logo="", 湖南都市

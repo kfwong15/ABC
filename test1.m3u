@@ -1,3 +1,25 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="CCTV1 综合HD" group-title="大陆",CCTV1 综合HD
+https://hls-gateway.vpstv.net/streams/476879.m3u8
+
+#EXTINF:-1 tvg-name="CCTV2 财经HD" group-title="大陆",CCTV2 财经HD
+https://hls-gateway.vpstv.net/streams/476881.m3u8
+
+#EXTINF:-1 tvg-name="CCTV3 综艺HD" group-title="大陆",CCTV3 综艺HD
+https://hls-gateway.vpstv.net/streams/476883.m3u8
+
+#EXTINF:-1 tvg-name="TVB翡翠台HD" group-title="港澳",TVB翡翠台HD
+https://hls-gateway.vpstv.net/streams/476929.m3u8
+
+#EXTINF:-1 tvg-name="民視 HD" group-title="台湾",民視 HD
+https://hls-gateway.vpstv.net/streams/476986.m3u8
+
+
+
+
+
 大陸,#genre#
 CCTV1 综合HD,https://hls-gateway.vpstv.net/streams/476879.m3u8
 CCTV2 财经HD,https://hls-gateway.vpstv.net/streams/476881.m3u8

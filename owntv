@@ -161,7 +161,7 @@ Sila isi URL dalam ott ikut step. bukan click link ini
 ########中国移动源############
 ###wangxiao5596/IPTV####
 
-#EXTM3U url-tvg="https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml"
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" group-title="中国电视大全",CCTV1
 http://183.221.193.148:4022/rtp/239.11.0.65:5140
